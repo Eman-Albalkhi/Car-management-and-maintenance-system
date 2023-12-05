@@ -18,7 +18,7 @@ In this project, we designed a management system that allows adding, deleting an
 1. Maintenance_date: The date of the maintenance operation.
 1. Typesnumber: The number of part types used.
 1. Pieces[100][100]: A binary array of integers containing in each column the number of the piece in the first line and the number used from this piece in the second line.
-1. Coast: The cost of maintenance without parts.
+1. Cost: The cost of maintenance without parts.
 1. Total_coast: The cost of maintenance with parts.
 
 
