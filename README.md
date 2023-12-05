@@ -31,12 +31,17 @@ In this project, we designed a management system that allows adding, deleting an
 
 ## Methods used
 
-1. Continue adding a car 
-1. Continue adding a maintenance operation
-1. Continue deleting a car record
-1. Continue searching for the owner's name and display all his car numbers
-1. Continue to view maintenance operations organized by car number
+1. Add a car 
+1. Add a maintenance operation
+1. Deleting a car record
+1. Searching for the owner's name and display all his car numbers
+1. View maintenance operations sorted by car number:
 1. View maintenance operations for a specific vehicle and calculate the cost
 1. Find the most used piece
 1. Track cars that have been serviced after a certain date
+
+   ![image](https://github.com/Eman-Albalkhi/Car-management-and-maintenance-system/assets/52492201/82691f01-beee-41d2-bddc-88795aa46f72)
+
+
+   
 
