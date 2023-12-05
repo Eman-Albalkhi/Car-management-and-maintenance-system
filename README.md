@@ -40,6 +40,8 @@ In this project, we designed a management system that allows adding, deleting an
 1. Find the most used piece
 1. Track cars that have been serviced after a certain date
 
+## Output Sample
+
    ![image](https://github.com/Eman-Albalkhi/Car-management-and-maintenance-system/assets/52492201/82691f01-beee-41d2-bddc-88795aa46f72)
 
 
