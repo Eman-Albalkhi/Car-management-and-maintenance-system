@@ -4,13 +4,13 @@ In this project, we designed a management system that allows adding, deleting an
 ## Records used
 
 ### 1- Car Registry
-```
+
 -Car_id: Car number.
--Type: Vehicle type.
--Color: The color of the car.
++Type: Vehicle type.
+*Color: The color of the car.
 -Owner_name: The name of the car owner.
--Phone: The car owner's number.
-```
++Phone: The car owner's number.
+
 
 ### 2- Maintenance record
 ```
