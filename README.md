@@ -3,7 +3,7 @@ In this project, we designed a management system that allows adding, deleting an
 
 ## Records used
 
-### 1- Car Registry
+#### - Car Registry
 
 1. Car_id: Car number.
 1. Type: Vehicle type.
@@ -12,32 +12,31 @@ In this project, we designed a management system that allows adding, deleting an
 1. Phone: The car owner's number.
 
 
-### 2- Maintenance record
-```
--Maintenance_number: Maintenance operation number.
--Car_id: The number of the car undergoing maintenance.
--Maintenance_date: The date of the maintenance operation.
--Typesnumber: The number of part types used.
--Pieces[100][100]: A binary array of integers containing in each column the number of the piece in the first line and the number used from this piece in the second line.
--Coast: The cost of maintenance without parts.
--Total_coast: The cost of maintenance with parts.
-```
+#### - Maintenance record
+ 1. Maintenance_number: Maintenance operation number.
+1. Car_id: The number of the car undergoing maintenance.
+1. Maintenance_date: The date of the maintenance operation.
+1. Typesnumber: The number of part types used.
+1. Pieces[100][100]: A binary array of integers containing in each column the number of the piece in the first line and the number used from this piece in the second line.
+1. Coast: The cost of maintenance without parts.
+1. Total_coast: The cost of maintenance with parts.
 
-### 3- Piece record
-```
--Piece_id: Part number.
--Price: The price of the piece.
--Linked List Record: Each node has a maintenance log and a pointer to the next node.
-```
+
+#### - Piece record
+
+1. Piece_id: Part number.
+1. Price: The price of the piece.
+1. Linked List Record: Each node has a maintenance log and a pointer to the next node.
+
 
 ## Methods used
-```
--Continue adding a car 
--Continue adding a maintenance operation
--Continue deleting a car record
--Continue searching for the owner's name and display all his car numbers
--Continue to view maintenance operations organized by car number
--View maintenance operations for a specific vehicle and calculate the cost
--Find the most used piece
--Track cars that have been serviced after a certain date
-```
+
+1. Continue adding a car 
+1. Continue adding a maintenance operation
+1. Continue deleting a car record
+1. Continue searching for the owner's name and display all his car numbers
+1. Continue to view maintenance operations organized by car number
+1. View maintenance operations for a specific vehicle and calculate the cost
+1. Find the most used piece
+1. Track cars that have been serviced after a certain date
+
