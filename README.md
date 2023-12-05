@@ -5,11 +5,11 @@ In this project, we designed a management system that allows adding, deleting an
 
 ### 1- Car Registry
 
--Car_id: Car number.
-+Type: Vehicle type.
-*Color: The color of the car.
--Owner_name: The name of the car owner.
-+Phone: The car owner's number.
+1. Car_id: Car number.
+1. Type: Vehicle type.
+1. Color: The color of the car.
+1. Owner_name: The name of the car owner.
+1. Phone: The car owner's number.
 
 
 ### 2- Maintenance record
